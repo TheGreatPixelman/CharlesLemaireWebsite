@@ -45,7 +45,7 @@ class OthersSection extends React.Component {
                         </ImageListItem>
                     ))}
                     </ImageList>
-                    <h1>and many more!</h1>
+                    <h1>and many more! but for now, see you later Alligator 🐊!</h1>
                     </Grid>
                 </Grid>
               </Container>       
