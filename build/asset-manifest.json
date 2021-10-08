@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.41626244.chunk.css",
+    "main.js": "/static/js/main.048b6b9d.chunk.js",
+    "main.js.map": "/static/js/main.048b6b9d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f4872ce9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f4872ce9.js.map",
+    "static/js/2.86876ed5.chunk.js": "/static/js/2.86876ed5.chunk.js",
+    "static/js/2.86876ed5.chunk.js.map": "/static/js/2.86876ed5.chunk.js.map",
+    "static/js/3.a1bf5905.chunk.js": "/static/js/3.a1bf5905.chunk.js",
+    "static/js/3.a1bf5905.chunk.js.map": "/static/js/3.a1bf5905.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.41626244.chunk.css.map": "/static/css/main.41626244.chunk.css.map",
+    "static/js/2.86876ed5.chunk.js.LICENSE.txt": "/static/js/2.86876ed5.chunk.js.LICENSE.txt",
+    "static/media/Aircraft_Flogger_Mk1.dddd9225.png": "/static/media/Aircraft_Flogger_Mk1.dddd9225.png",
+    "static/media/App.css": "/static/media/os.ce19db64.ttf",
+    "static/media/Forest_Batching_Optimisation.c4ef5992.png": "/static/media/Forest_Batching_Optimisation.c4ef5992.png",
+    "static/media/GPS.3909977e.png": "/static/media/GPS.3909977e.png",
+    "static/media/Gop-Tun.0eaf0d6d.png": "/static/media/Gop-Tun.0eaf0d6d.png",
+    "static/media/Knight.b4c795fb.gif": "/static/media/Knight.b4c795fb.gif",
+    "static/media/Mazeltov.e98b3d0d.gif": "/static/media/Mazeltov.e98b3d0d.gif",
+    "static/media/Missile_Simulation.e32d17fb.png": "/static/media/Missile_Simulation.e32d17fb.png",
+    "static/media/aircraft.8001b2dd.png": "/static/media/aircraft.8001b2dd.png",
+    "static/media/profilePic.b0c18f1a.jpg": "/static/media/profilePic.b0c18f1a.jpg",
+    "static/media/synth.d7a15ea4.png": "/static/media/synth.d7a15ea4.png",
+    "static/media/tonkus.7bb5b4a3.png": "/static/media/tonkus.7bb5b4a3.png",
+    "static/media/tonkusandheavy.3966f642.png": "/static/media/tonkusandheavy.3966f642.png",
+    "static/media/ui_vr.5a5c3c50.png": "/static/media/ui_vr.5a5c3c50.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4872ce9.js",
+    "static/js/2.86876ed5.chunk.js",
+    "static/css/main.41626244.chunk.css",
+    "static/js/main.048b6b9d.chunk.js"
+  ]
+}
