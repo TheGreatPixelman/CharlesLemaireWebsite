@@ -1,0 +1,157 @@
+@font-face {
+  font-family: title;
+  src: url("fonts/Bobbleboddy_light.ttf");
+}
+
+@font-face {
+  font-family: openSans;
+  src: url("fonts/os.ttf");
+}
+
+body {
+  background-color: #282c34;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: rgb(43, 43, 43);
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.headerContainer {
+  height: 400px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #282c34;
+}
+
+.NameTitle {
+  color: white;
+  text-shadow: 4px 4px 2px rgba(0,0,0,0.6);
+  font-size: 5em;
+  font-family: title;
+  font-weight: normal;
+}
+
+.ProjectsSection {
+  background-color: #282c34;
+  height: 1000px;
+}
+
+.AboutMe {
+  background-color: #405844 !important;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-bottom: 100px;
+}
+
+.profilePicture{
+  width: 100%;
+  border-radius: 1000px;
+  box-shadow: 1px 1px 3px 0px rgba(0,0,0,0.75);
+}
+
+.description{
+  min-height: 150px;
+  margin-bottom: 15px;
+  text-align: justify;
+}
+
+.description p{
+  font-family: openSans;
+  font-size: 1.5em;
+  color: #ffffff;
+}
+
+.description h1{
+  font-family: openSans;
+  font-size: 2em;
+  color: #ffffff;
+}
+
+.description h2{
+  font-family: openSans;
+  font-size: 1.2em;
+  margin-bottom: 0px;
+  color: #ffffff;
+  text-shadow: 2px 2px 2px rgba(0,0,0,0.6);
+}
+
+
+.experience{
+  min-height: 200px;
+}
+
+.gamePicture {
+  width: 100%;
+  border-radius: 25px;
+  box-shadow: 1px 1px 3px 0px rgba(0,0,0,0.75);
+  transition: box-shadow 0.05s;
+}
+
+.gamePicture:hover {
+  box-shadow: 3px 3px 3px 0px rgba(0,0,0,0.75);
+}
+
+.gameSection{
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #405844 !important;
+  min-height: 150px;
+  margin-bottom: 15px;
+  min-height: 400px;
+  margin-bottom: 100px;
+  text-align: justify;
+}
+
+.section-title{
+  font-size: 3em;
+  font-family: title;
+  color: #fff;
+  text-shadow: 4px 4px 2px rgba(0,0,0,0.6);
+}
+
+.imageList{
+  width: 100%;
+}
+
+.bottom-left {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+}
