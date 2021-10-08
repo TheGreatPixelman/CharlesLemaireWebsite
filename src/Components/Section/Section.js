@@ -14,10 +14,10 @@ class Section extends React.Component {
                     <Grid item xs={9}>
                         <Container>
                             <div elevation={5} className="description" >
-                                <p>Hey there! i'm Charles a soon to be graduate of the ÉTS in software engineering! 
-                                    I enjoy working with different 3D tools to create simulations and 
-                                    interaction between different systems, My favorite software to date is Unity3D where i make most 
-                                    of my games and projects. I hope that one day i'll have the guts to release something good 
+                                <p>Hey there! I'm Charles, a soon to be of ÉTS in software engineering! 
+                                    I enjoy working with different Modeling and game engines softwares to create simulations and 
+                                    interactions between different systems. My favorite software to date is Unity3D where i make most 
+                                    of my games and projects. I hope that one day I'll have the ability to release my first game 
                                     and start my own studio! </p>
                                 <p>
                                     Very Spicy 🌶️!

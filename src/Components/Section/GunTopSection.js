@@ -14,10 +14,10 @@ class GunTopSection extends React.Component {
                     <Grid item xs={8}>
                         <Container>
                             <div elevation={5} className="description" >
-                                <h1>Gun-Top (WIP)</h1>
+                                <h1>Gun-Top</h1>
                                 <p>
-                                   Gun-Top is my current project where i want to recreate the feeling of being a 
-                                   Top-Gun jet fighter pilot in a VR Experience. With the help of my friend Zachary, 
+                                   Gun-Top is my current project where I want to emulate the feeling of being a 
+                                   Top-Gun jet fighter pilot in a VR Experience. Working with my friend Zachary, 
                                    we want to create a near to truth flight experience while testing different 
                                    innovative techniques to reduce motion-sickness as much as possible during intense fights.
                                 </p>

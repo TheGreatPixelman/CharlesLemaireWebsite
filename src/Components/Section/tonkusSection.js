@@ -16,10 +16,12 @@ class TonkusSection extends React.Component {
                             <div elevation={5} className="description" >
                                 <h1>Tonkus</h1>
                                 <p>
-                                    Tonkus is my first try at simulations in Unity3D, the concept of tonkus was to create a semi-realistic penetration system for tanks (similar to War Thunder). Using data tables from military books from the 50-80s i was able to recreate a quite refined damage model and shrapneling system. 
+                                    Tonkus is my first attempt at simulations in Unity3D. The concept of tonkus was to create a semi-realistic 
+                                    penetration system for tanks (similar to War Thunder). Using data tables from military books from the 
+                                    50-80s I was able to recreate a refined damage model and shrapneling system. 
                                 </p>
                                 <Link href="#" className="description">
-                                         <p>learn more...</p> 
+                                         <p>Learn more...</p> 
                                 </Link>
                             </div>
                         </Container>

@@ -17,10 +17,10 @@ class SynthySection extends React.Component {
                                 <h1>Synthy</h1>
                                 <p>
                                     Synthy is a musical VR experience that allows the player to create simple melodies with the help of a sequencer,
-                                    this project was my first experience with the OpenXR and SteamVR systems. i had a lot of fun doing it!
+                                    this project was my first experience with the OpenXR and SteamVR systems. I had a lot of fun doing it!
                                 </p>
                                 <Link href="#" className="description">
-                                         <p>learn more...</p> 
+                                         <p>Learn more...</p> 
                                 </Link>
                             </div>
                         </Container>
