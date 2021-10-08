@@ -1,5 +1,5 @@
 import React from "react";
-import { Container, Paper, Grid, styled, Avatar  } from '@material-ui/core'
+import { Container, Paper, Grid } from '@material-ui/core'
 import pp from './Images/profilePic.jpg'
 
 class Section extends React.Component {
