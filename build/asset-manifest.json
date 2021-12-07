@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.41626244.chunk.css",
-    "main.js": "/static/js/main.048b6b9d.chunk.js",
-    "main.js.map": "/static/js/main.048b6b9d.chunk.js.map",
+    "main.js": "/static/js/main.a02f48e2.chunk.js",
+    "main.js.map": "/static/js/main.a02f48e2.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f4872ce9.js",
     "runtime-main.js.map": "/static/js/runtime-main.f4872ce9.js.map",
     "static/js/2.86876ed5.chunk.js": "/static/js/2.86876ed5.chunk.js",
@@ -16,7 +16,7 @@
     "static/media/App.css": "/static/media/os.ce19db64.ttf",
     "static/media/Forest_Batching_Optimisation.c4ef5992.png": "/static/media/Forest_Batching_Optimisation.c4ef5992.png",
     "static/media/GPS.3909977e.png": "/static/media/GPS.3909977e.png",
-    "static/media/Gop-Tun.0eaf0d6d.png": "/static/media/Gop-Tun.0eaf0d6d.png",
+    "static/media/Gop-Tun.763afe3c.png": "/static/media/Gop-Tun.763afe3c.png",
     "static/media/Knight.b4c795fb.gif": "/static/media/Knight.b4c795fb.gif",
     "static/media/Mazeltov.e98b3d0d.gif": "/static/media/Mazeltov.e98b3d0d.gif",
     "static/media/Missile_Simulation.e32d17fb.png": "/static/media/Missile_Simulation.e32d17fb.png",
@@ -31,6 +31,6 @@
     "static/js/runtime-main.f4872ce9.js",
     "static/js/2.86876ed5.chunk.js",
     "static/css/main.41626244.chunk.css",
-    "static/js/main.048b6b9d.chunk.js"
+    "static/js/main.a02f48e2.chunk.js"
   ]
 }
